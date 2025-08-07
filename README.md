@@ -64,7 +64,9 @@ Create a file named `.env` in the root directory and add your API key:
 
 ```env
 COHERE_API_KEY=your_cohere_api_key_here
+HUGGINFACE_TOKEN=your_hugginface_token
 ```
+Make sure you have added your cohere API key and hugginface token 
 
 ### 5. Run the Application
 
