@@ -41,7 +41,7 @@ This project leverages:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/excusegen-ai.git
+git clone https://github.com/Krishwin26/Intelligent_Excusegen_AI.git
 cd excusegen-ai
 ```
 
