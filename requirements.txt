@@ -1,0 +1,6 @@
+Flask
+gtts
+openai-whisper
+Pillow
+cohere
+python-dotenv
