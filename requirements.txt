@@ -2,5 +2,7 @@ Flask
 gtts
 openai-whisper
 Pillow
+torch
+diffusers
 cohere
 python-dotenv
